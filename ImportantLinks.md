@@ -11,6 +11,7 @@
 ###### https://docs.microsoft.com/en-us/azure/load-balancer/load-balancer-multivip-overview
 ###### https://www.jbmurphy.com/
 ###### https://zeeshan.net/category/azure/
+###### Configure AG with Blob https://charbelnemnom.com/how-to-configure-application-gateway-in-front-of-azure-blob-storage/
       
 ######    Admin
   
