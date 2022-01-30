@@ -12,6 +12,7 @@
 ###### https://www.jbmurphy.com/
 ###### https://zeeshan.net/category/azure/
 ###### Configure AG with Blob https://charbelnemnom.com/how-to-configure-application-gateway-in-front-of-azure-blob-storage/
+###### Azure Update Mgmt      https://charbelnemnom.com/patch-azure-vms-using-azure-update-management/#Azure_Update_Management
       
 ######    Admin
   
