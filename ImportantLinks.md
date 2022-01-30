@@ -14,7 +14,7 @@
 ###### Configure AG with Blob https://charbelnemnom.com/how-to-configure-application-gateway-in-front-of-azure-blob-storage/
 ###### Azure Update Mgmt      https://charbelnemnom.com/patch-azure-vms-using-azure-update-management/#Azure_Update_Management
 ###### Azure Sec Hardning     https://charbelnemnom.com/patch-azure-vms-using-azure-update-management/#Azure_Update_Management
-#####
+#####  Azure WhitePapers      https://github.com/CharbelNemnom/Power-MVP-Elite/tree/master/Azure
       
 ######    Admin
   
