@@ -16,6 +16,7 @@
 ###### Azure Sec Hardning     https://charbelnemnom.com/patch-azure-vms-using-azure-update-management/#Azure_Update_Management
 ###### Azure WhitePapers      https://github.com/CharbelNemnom/Power-MVP-Elite/tree/master/Azure
 ###### Azure VM-Multiple BCK  https://charbelnemnom.com/enable-multiple-backups-per-day-for-azure-vm/#Configure_Multiple_Backups_Per_Day
+###### Azure MS Defender      https://charbelnemnom.com/exclude-storage-account-defender-for-storage/
       
 ######    Admin
   
