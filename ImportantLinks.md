@@ -81,6 +81,15 @@ Power BI:
  ######        Billing : https://www.cloudnative.at/2017/12/22/generate-an-azure-consumption-report-with-the-consumption-rest-api-and-powershell/
  ######        azure Rest API via Powershell :https://blog.tekspace.io/access-azure-rest-api-using-powershell/
  ######        https://blog.darrenjrobinson.com/sending-and-querying-custom-log-data-to-azure-monitor-logs/
+ 
+ ## CloudOPS
+ ######   https://www.plesk.com/blog/various/what-is-cloudops/
+ ######   https://www.geeksforgeeks.org/overview-of-cloudops/
+ ######   https://www.linkedin.com/pulse/cloudops-what-should-your-ops-team-know-now-govindharaj-varadharajan/?trackingId=Lm7Ep%2Bn8AIH6yYhVlc%2B2%2FQ%3D%3D
+ ######   https://insights.daffodilsw.com/blog/devops-vs-cloudops-whats-the-difference
+ ######   https://www.dincloud.com/blog/cloudops-a-rundown-of-cloud-operations-and-management
+ ######   https://k21academy.com/devops-foundation/devops-vs-cloudops/
+ ######   https://www.ecloudcontrol.com/devops-vs-cloudops/
          
   
  #### Work-Made Easy
