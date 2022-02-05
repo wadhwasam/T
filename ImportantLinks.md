@@ -103,4 +103,6 @@ Power BI:
          
   # AWS
   ###### https://www.bluematador.com/learn/aws-cli-cheatsheet
+  ###### https://aws.amazon.com/aws-cost-management/aws-cost-and-usage-reporting/
+ 
   
