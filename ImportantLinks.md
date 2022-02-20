@@ -6,6 +6,10 @@
 ######                  https://geekflare.com/ansible-playbook-windows-example/
 ######                  https://www.devopsschool.com/tutorial/ansible/ansible-windows-playbooks.html
 
+##### Terraform
+######  Deploying Azure Resources using Terraform https://medium.com/techbull/deploying-azure-resources-using-terraform-c16917fca588
+######  
+
 ####   Azure
 ######      Resource Graph: https://docs.microsoft.com/en-us/azure/governance/resource-graph/
 ###### https://docs.microsoft.com/en-us/azure/load-balancer/load-balancer-multivip-overview
@@ -41,6 +45,9 @@ Power BI:
 ######     https://allforazure.wordpress.com/2020/08/30/securescore/
 ######     https://techcommunity.microsoft.com/t5/azure-security-center/secure-score-over-time-power-bi-dashboard/ba-p/1799954
 ######     https://enterinit.com/power-bi-solution-template-for-azure-activity-log-analytics/
+######      Sum from 2 diff tables: https://community.powerbi.com/t5/Desktop/How-to-Sum-columns-from-different-tables-that-have-no-direct/m-p/15316
+######     Sum function in powerBI: https://www.wallstreetmojo.com/sumx-in-power-bi/
+######
 ######     UTube:
 ######           Traffic Light Measurekpi = unichar(11044): https://www.youtube.com/watch?v=fcv3CHBItJo
 ######           Append Query : https://youtu.be/S7hbCN9rRY0
