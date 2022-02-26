@@ -9,6 +9,7 @@
 ### Terraform
 ######  Deploying Azure Resources using Terraform https://medium.com/techbull/deploying-azure-resources-using-terraform-c16917fca588
 ######  https://github.com/PacktPublishing/HashiCorp-Infrastructure-Automation-Certification-Guide
+######  Azure Registry : https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/resources/postgresql_server
 
 ### Gitlab
 ###### https://www.onuryasarlar.com/azure/azure-infrastructure-automation-with-gitlab-ci
