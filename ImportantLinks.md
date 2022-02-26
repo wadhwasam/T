@@ -10,6 +10,9 @@
 ######  Deploying Azure Resources using Terraform https://medium.com/techbull/deploying-azure-resources-using-terraform-c16917fca588
 ######  https://github.com/PacktPublishing/HashiCorp-Infrastructure-Automation-Certification-Guide
 
+### Gitlab
+###### https://www.onuryasarlar.com/azure/azure-infrastructure-automation-with-gitlab-ci
+
 ###   Azure
 ######      Resource Graph: https://docs.microsoft.com/en-us/azure/governance/resource-graph/
 ###### https://docs.microsoft.com/en-us/azure/load-balancer/load-balancer-multivip-overview
@@ -100,5 +103,6 @@
   # AWS
   ###### https://www.bluematador.com/learn/aws-cli-cheatsheet
   ###### https://aws.amazon.com/aws-cost-management/aws-cost-and-usage-reporting/
+  ###### cudos https://catalog.us-east-1.prod.workshops.aws/workshops/fd889151-38aa-4fe2-a29d-d5fa557197bb/en-US
  
   
