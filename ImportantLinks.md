@@ -63,6 +63,7 @@
 ######     https://enterinit.com/power-bi-solution-template-for-azure-activity-log-analytics/
 ######      Sum from 2 diff tables: https://community.powerbi.com/t5/Desktop/How-to-Sum-columns-from-different-tables-that-have-no-direct/m-p/15316
 ######     Sum function in powerBI: https://www.wallstreetmojo.com/sumx-in-power-bi/
+######      Azure costing scrreen shot: https://appsource.microsoft.com/en-us/product/power-bi/costmanagement.azurecostmanagementapp
 ######
 ######     UTube:
 ######           Traffic Light Measurekpi = unichar(11044): https://www.youtube.com/watch?v=fcv3CHBItJo
