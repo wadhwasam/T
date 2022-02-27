@@ -10,9 +10,12 @@
 ######  Deploying Azure Resources using Terraform https://medium.com/techbull/deploying-azure-resources-using-terraform-c16917fca588
 ######  https://github.com/PacktPublishing/HashiCorp-Infrastructure-Automation-Certification-Guide
 ######  Azure Registry : https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/resources/postgresql_server
-
-### Gitlab
-###### https://www.onuryasarlar.com/azure/azure-infrastructure-automation-with-gitlab-ci
+######  taint/untaint  : https://www.devopsschool.com/blog/terraform-taint-and-untaint-explained-with-example-programs-and-tutorials/
+######  DevOps         : https://www.devopsschool.com/blog/category/terraform/
+######  Graphviz       : https://techsnips.io/snips/how-to-use-graphviz-with-terraform-to-visualize-your-infrastructure/
+######  Enhancement    : https://www.slideshare.net/mitchp/terraform-012-deep-dive-hcl-20-for-infrastructure-as-code-remote-plan-apply-125837028
+######  VSTS Terraform   : https://colinsalmcorner.com/terraform-all-the-things-with-vsts/
+######  Gitlab-Terraform : https://www.onuryasarlar.com/azure/azure-infrastructure-automation-with-gitlab-ci
 
 ###   Azure
 ######      Resource Graph: https://docs.microsoft.com/en-us/azure/governance/resource-graph/
