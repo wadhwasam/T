@@ -7,18 +7,26 @@
 ######                  https://www.devopsschool.com/tutorial/ansible/ansible-windows-playbooks.html
 
 ### Terraform
-######  Deploying Azure Resources using Terraform https://medium.com/techbull/deploying-azure-resources-using-terraform-c16917fca588
-######  https://github.com/PacktPublishing/HashiCorp-Infrastructure-Automation-Certification-Guide
-######  Azure Registry : https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/resources/postgresql_server
-######  taint/untaint  : https://www.devopsschool.com/blog/terraform-taint-and-untaint-explained-with-example-programs-and-tutorials/
-######  DevOps         : https://www.devopsschool.com/blog/category/terraform/
-######  Graphviz       : https://techsnips.io/snips/how-to-use-graphviz-with-terraform-to-visualize-your-infrastructure/
-######  Enhancement    : https://www.slideshare.net/mitchp/terraform-012-deep-dive-hcl-20-for-infrastructure-as-code-remote-plan-apply-125837028
-######  VSTS Terraform   : https://colinsalmcorner.com/terraform-all-the-things-with-vsts/
-######  Gitlab-Terraform : https://www.onuryasarlar.com/azure/azure-infrastructure-automation-with-gitlab-ci
+###### Deploying Azure Resources using Terraform https://medium.com/techbull/deploying-azure-resources-using-terraform-c16917fca588
+###### https://github.com/PacktPublishing/HashiCorp-Infrastructure-Automation-Certification-Guide
+###### Azure Registry : https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/resources/postgresql_server
+###### taint/untaint  : https://www.devopsschool.com/blog/terraform-taint-and-untaint-explained-with-example-programs-and-tutorials/
+###### DevOps         : https://www.devopsschool.com/blog/category/terraform/
+###### Graphviz       : https://techsnips.io/snips/how-to-use-graphviz-with-terraform-to-visualize-your-infrastructure/
+###### Enhancement    : https://www.slideshare.net/mitchp/terraform-012-deep-dive-hcl-20-for-infrastructure-as-code-remote-plan-apply-125837028
+###### VSTS Terraform : https://colinsalmcorner.com/terraform-all-the-things-with-vsts/
+###### Gitlab-Terraform: https://www.onuryasarlar.com/azure/azure-infrastructure-automation-with-gitlab-ci
+###### IAM Policy     :  https://faun.pub/lets-do-devops-terraform-dynamic-iam-policy-construction-6374b80bf28
+###### IAM Policy     : https://www.phillipsj.net/posts/terraforming-aws-iam-policies/
 
 ### Packer
 ###### Red Hat image using packer https://gmusumeci.medium.com/how-to-build-an-aws-ec2-redhat-8-ami-using-packer-d81dd48e6ea7
+
+### AWS
+###### https://www.bluematador.com/learn/aws-cli-cheatsheet
+###### https://aws.amazon.com/aws-cost-management/aws-cost-and-usage-reporting/
+###### cudos https://catalog.us-east-1.prod.workshops.aws/workshops/fd889151-38aa-4fe2-a29d-d5fa557197bb/en-US
+###### AWS in plain English : https://aws.plainenglish.io/
 
 ###   Azure
 ######      Resource Graph: https://docs.microsoft.com/en-us/azure/governance/resource-graph/
@@ -59,7 +67,7 @@
 ######  https://charbelnemnom.com/get-the-list-of-non-compliant-azure-resources-with-powershell/
  
 ### Power BI:
-######   Confitional Formatting : bielite.com/blog/dynamic-conditional-formatting-values-totals/
+######  Confitional Formatting : bielite.com/blog/dynamic-conditional-formatting-values-totals/
 ######                              https://radacad.com/conditional-column-in-power-bi-using-power-query-you-can-do-anything
 ######                              https://www.mssqltips.com/sqlservertip/6623/azure-reporting-for-resource-usage-with-power-bi/
 ######     https://docs.microsoft.com/en-us/azure/data-explorer/power-bi-imported-query
@@ -67,22 +75,22 @@
 ######     https://allforazure.wordpress.com/2020/08/30/securescore/
 ######     https://techcommunity.microsoft.com/t5/azure-security-center/secure-score-over-time-power-bi-dashboard/ba-p/1799954
 ######     https://enterinit.com/power-bi-solution-template-for-azure-activity-log-analytics/
-######      Sum from 2 diff tables: https://community.powerbi.com/t5/Desktop/How-to-Sum-columns-from-different-tables-that-have-no-direct/m-p/15316
-######     Sum function in powerBI: https://www.wallstreetmojo.com/sumx-in-power-bi/
-######      Azure costing scrreen shot: https://appsource.microsoft.com/en-us/product/power-bi/costmanagement.azurecostmanagementapp
+######  Sum from 2 diff tables: https://community.powerbi.com/t5/Desktop/How-to-Sum-columns-from-different-tables-that-have-no-direct/m-p/15316
+######  Sum function in powerBI: https://www.wallstreetmojo.com/sumx-in-power-bi/
+######  Azure costing screen shot: https://appsource.microsoft.com/en-us/product/power-bi/costmanagement.azurecostmanagementapp
 ######
-######     UTube:
-######           Traffic Light Measurekpi = unichar(11044): https://www.youtube.com/watch?v=fcv3CHBItJo
-######           Append Query : https://youtu.be/S7hbCN9rRY0
-######           DoItyourself : https://www.youtube.com/playlist?list=PLyD1XCIRA3gT0Yg9RrKhPE30hSEKTVZWL
+######  UTube:
+######  Traffic Light Measurekpi = unichar(11044): https://www.youtube.com/watch?v=fcv3CHBItJo
+######  Append Query : https://youtu.be/S7hbCN9rRY0
+######  DoItyourself : https://www.youtube.com/playlist?list=PLyD1XCIRA3gT0Yg9RrKhPE30hSEKTVZWL
            
 
               
 #### Powershell
-######       Samples : https://github.com/Azure/azure-docs-powershell-samples
-######                 http://www.powershellgeek.com/2020/04/06/azure-adventures-003/
-######                 https://skatterbrainz.wordpress.com/category/cloud-2/
-######                 https://www.managility.co/automating-analysis-of-azure-resource-consumption-in-power-bi/
+######  Samples : https://github.com/Azure/azure-docs-powershell-samples
+######           http://www.powershellgeek.com/2020/04/06/azure-adventures-003/
+######           https://skatterbrainz.wordpress.com/category/cloud-2/
+######           https://www.managility.co/automating-analysis-of-azure-resource-consumption-in-power-bi/
               
   
 #### Webapps
@@ -108,9 +116,6 @@
  ######         Split Screen: https://github.com/microsoft/PowerToys/wiki/FancyZones-Overview
           
      
-  # AWS
-  ###### https://www.bluematador.com/learn/aws-cli-cheatsheet
-  ###### https://aws.amazon.com/aws-cost-management/aws-cost-and-usage-reporting/
-  ###### cudos https://catalog.us-east-1.prod.workshops.aws/workshops/fd889151-38aa-4fe2-a29d-d5fa557197bb/en-US
+
  
   
