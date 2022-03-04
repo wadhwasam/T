@@ -17,6 +17,9 @@
 ######  VSTS Terraform   : https://colinsalmcorner.com/terraform-all-the-things-with-vsts/
 ######  Gitlab-Terraform : https://www.onuryasarlar.com/azure/azure-infrastructure-automation-with-gitlab-ci
 
+### Packer
+###### Red Hat image using packer https://gmusumeci.medium.com/how-to-build-an-aws-ec2-redhat-8-ami-using-packer-d81dd48e6ea7
+
 ###   Azure
 ######      Resource Graph: https://docs.microsoft.com/en-us/azure/governance/resource-graph/
 ###### https://docs.microsoft.com/en-us/azure/load-balancer/load-balancer-multivip-overview
