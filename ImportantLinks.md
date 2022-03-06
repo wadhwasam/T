@@ -22,6 +22,7 @@
 ### Packer
 ###### Red Hat image using packer https://gmusumeci.medium.com/how-to-build-an-aws-ec2-redhat-8-ami-using-packer-d81dd48e6ea7
 ###### Beginner Tutorial :  https://devopscube.com/packer-tutorial-for-beginners/
+###### Best Practices Windows Build : https://hodgkins.io/best-practices-with-packer-and-windows#disable-winrm-on-build-completion-and-only-enable-it-on-first-boot
 
 ### AWS
 ###### https://www.bluematador.com/learn/aws-cli-cheatsheet
