@@ -5,6 +5,7 @@
 ######                  https://cloudskills.io/blog/connect-ansible-windows
 ######                  https://geekflare.com/ansible-playbook-windows-example/
 ######                  https://www.devopsschool.com/tutorial/ansible/ansible-windows-playbooks.html
+######    On windows:   https://adamtheautomator.com/ansible-windows/
 
 ### Terraform
 ###### Deploying Azure Resources using Terraform https://medium.com/techbull/deploying-azure-resources-using-terraform-c16917fca588
