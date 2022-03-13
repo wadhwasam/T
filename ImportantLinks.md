@@ -19,6 +19,7 @@
 ###### Gitlab-Terraform: https://www.onuryasarlar.com/azure/azure-infrastructure-automation-with-gitlab-ci
 ###### IAM Policy     :  https://faun.pub/lets-do-devops-terraform-dynamic-iam-policy-construction-6374b80bf28
 ###### IAM Policy     : https://www.phillipsj.net/posts/terraforming-aws-iam-policies/
+###### BP StgAcct     : https://jamescook.dev/bestpractice-terraformstate-azureblob
 
 ### Packer
 ###### Red Hat image using packer https://gmusumeci.medium.com/how-to-build-an-aws-ec2-redhat-8-ami-using-packer-d81dd48e6ea7
