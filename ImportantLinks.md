@@ -26,6 +26,7 @@
 ###### Beginner Tutorial :  https://devopscube.com/packer-tutorial-for-beginners/
 ###### Best Practices Windows Build : https://hodgkins.io/best-practices-with-packer-and-windows#disable-winrm-on-build-completion-and-only-enable-it-on-first-boot
 ######  windows Build   : https://docs.microsoft.com/en-us/azure/virtual-machines/windows/build-image-with-packer
+###### ubuntu : https://freshbrewed.science/2021/09/08/packer-linux.html
 
 ### AWS
 ###### https://www.bluematador.com/learn/aws-cli-cheatsheet
