@@ -29,6 +29,7 @@
 ###### ubuntu : https://freshbrewed.science/2021/09/08/packer-linux.html
 ###### packer workflow in azure https://medium.com/slalom-build/azure-packer-592c4dc0e23a
 ###### azure devops https://parveensingh.com/packer-golden-vm-image-with-azure-devops/
+###### packer azure : https://freshbrewed.science/2021/09/08/packer-linux.html
 
 ### AWS
 ###### https://www.bluematador.com/learn/aws-cli-cheatsheet
