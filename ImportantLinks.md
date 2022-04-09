@@ -53,6 +53,7 @@
 ######                Locks : https://docs.microsoft.com/en-us/azure/governance/policy/tutorials/govern-tags
 ######            Disk IOPS : https://techcommunity.microsoft.com/t5/azure-monitor/find-new-metrics/m-p/1821916
 ######               Backups: https://docs.microsoft.com/en-us/azure/backup/guidance-best-practices
+######  SQL Server Migration: https://techcommunity.microsoft.com/t5/azure-sql-blog/migrate-sql-server-databases-at-scale-to-azure-using-powershell/ba-p/3271086
 
  #### Monitor
  ######                  https://azure.microsoft.com/en-us/blog/guest-health-feature-in-azure-monitor-for-virtual-machines/
